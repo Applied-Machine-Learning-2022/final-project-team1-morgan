@@ -38,9 +38,9 @@ Neuro Network Designed for movie recommndation.([MDPI-Enhancing Knowledge of Pro
 - **Antoine Teague:** Presentation Designer, in control of making sure every document looks polished and well represented in Github. In charge of creating the PowerPoint presentation and README file that should include the overview of the project and a step by step breakdown on how we completed it. 
 
 ## Contacts
-Antoine Teague: antea1@morgan.edu
-Sameul Adeleye: toade16@morgan.edu
-Nasir Barnes: nabar15@morgan.edu
+Antoine Teague: antea1@morgan.edu,
+Sameul Adeleye: toade16@morgan.edu,
+Nasir Barnes: nabar15@morgan.edu,
 Jermaine Lennon: jelen2@morgan.edu
 
 ## Usage instructions
