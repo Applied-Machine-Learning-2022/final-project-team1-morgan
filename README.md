@@ -29,7 +29,9 @@ Neuro Network Designed for movie recommndation.([MDPI-Enhancing Knowledge of Pro
 ## Instructions
 - Uploadthe Capstone.ipynb file into colab
 - Upload the ```kaggle.json``` file into your colabs session storage
-- 
+- Download the datasets in your code block using the fololowing:![](images/download01.png)
+
+
 
 ### Project Roles
 - **Samuel Adeleye:** Project Leader and Auditor. Assigned project goals during the duration of the model development. In charge of creating the Data Folder including all of the datasets used in the project and Design Document that contains a brief overview of the project including the process of developing the model, project goals and the problems we ran into. 
