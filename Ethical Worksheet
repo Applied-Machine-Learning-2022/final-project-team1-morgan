@@ -1,1 +1,13 @@
-Consider potential bias in the data that we have been provided.
+# Ethical Considerations Worksheet
+
+##Question 1
+Write one paragraph story about someone is postively affected by the model trained by the data. 
+
+##Question 2
+Write one paragraph story about someone is negativity affected by the model trained by the data. 
+##Question 3
+Describe at least two sources of bias the particular model in your story could have. 
+##Question 4
+Describe at least one way we could modify the context surrounding the model to mitigate this bias. 
+##Question 5
+Describe at least one way we could modify the dataset to mitigate this bias?
