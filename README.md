@@ -2,7 +2,8 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
+# Using Neural Networks to Develop a Movie Recommendation System
+
 ## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `MORGAN STATE UNIVERSITY`
 
 <!--
