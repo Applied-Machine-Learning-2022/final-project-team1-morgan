@@ -27,7 +27,18 @@ Basic Neural Network breakdown.([Digital Trends-What is an artificial neural net
 Neuro Network Designed for movie recommndation.([MDPI-Enhancing Knowledge of Propagation-Perception.](http://https://www.mdpi.com/2079-9292/11/4/547/htm "MDPI-Enhancing Knowledge of Propagation-Perception."))
 [![](https://www.mdpi.com/electronics/electronics-11-00547/article_deploy/html/images/electronics-11-00547-g003-550.jpg)](https://www.mdpi.com/electronics/electronics-11-00547/article_deploy/html/images/electronics-11-00547-g003-550.jpg)
 
-##  [Kaggle link for Movie Dataset.](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+###  [Kaggle link for Movie Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+
+## Our Systems
+- Content Based Design: Uses movie titles as features and creates a list of movies that are similar.
+![Content Based Design](https://github.com/Applied-Machine-Learning-2022/final-project-team1-morgan/blob/main/images/Content%20Based.png)
+
+
+- Genre Based Design: Takes an input of any movie genre and creates a movie list based on popularity within the genre.
+![Genre Based Design](https://github.com/Applied-Machine-Learning-2022/final-project-team1-morgan/blob/main/images/Genre%20Based.png)
+
+
+- History Based Design
 
 ### Project Roles
 - **Samuel Adeleye:** Project Leader and Auditor. Assigned project goals during the duration of the model development. In charge of creating the Data Folder including all of the datasets used in the project and Design Document that contains a brief overview of the project including the process of developing the model, project goals and the problems we ran into. 
@@ -41,11 +52,3 @@ Sameul Adeleye: toade16@morgan.edu,
 Nasir Barnes: nabar15@morgan.edu,
 Jermaine Lennon: jelen2@morgan.edu
 
-## Usage instructions
-<!--
-Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
--->
-1. Fork this repo
-2. Change directories into your project
-3. On the command line, type `pip3 install requirements.txt`
-4. ....
