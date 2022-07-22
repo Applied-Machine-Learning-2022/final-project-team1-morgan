@@ -27,12 +27,7 @@ Basic Neural Network breakdown.([Digital Trends-What is an artificial neural net
 Neuro Network Designed for movie recommndation.([MDPI-Enhancing Knowledge of Propagation-Perception.](http://https://www.mdpi.com/2079-9292/11/4/547/htm "MDPI-Enhancing Knowledge of Propagation-Perception."))
 [![](https://www.mdpi.com/electronics/electronics-11-00547/article_deploy/html/images/electronics-11-00547-g003-550.jpg)](https://www.mdpi.com/electronics/electronics-11-00547/article_deploy/html/images/electronics-11-00547-g003-550.jpg)
 
-## Instructions
-- Uploadthe Capstone.ipynb file into colab
-- Upload the ```kaggle.json``` file into your colabs session storage
-- Download the datasets in your code block using the fololowing:![](images/download01.png)
-
-
+##  [Kaggle link for Movie Dataset.](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
 ### Project Roles
 - **Samuel Adeleye:** Project Leader and Auditor. Assigned project goals during the duration of the model development. In charge of creating the Data Folder including all of the datasets used in the project and Design Document that contains a brief overview of the project including the process of developing the model, project goals and the problems we ran into. 
