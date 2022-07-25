@@ -38,8 +38,6 @@ Neuro Network Designed for movie recommndation.([MDPI-Enhancing Knowledge of Pro
 ![Genre Based Design](https://github.com/Applied-Machine-Learning-2022/final-project-team1-morgan/blob/main/images/Genre%20Based.png)
 
 
-- History Based Design
-
 ### Project Roles
 - **Samuel Adeleye:** Project Leader and Auditor. Assigned project goals during the duration of the model development. In charge of creating the Data Folder including all of the datasets used in the project and Design Document that contains a brief overview of the project including the process of developing the model, project goals and the problems we ran into. 
 - **Jermaine Lennon:** Lead Code Designer, in charge of the google colab file. The main contributer to developing and training the model. Looked over the Data Analysis part of the colab making sure there is no missing data and seeing if the model has accurate outputs.
