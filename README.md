@@ -13,7 +13,7 @@ link to each members respective GitHub profile
 
 **Developers:**
 - [Antoine Teague](http://https://github.com/ATeague02 "Antoine Teague") - Morgan State University 
-- [Jermaine Lennon](http://https://github.com/JermaineLennon "Jermaine Lennon") - Morgan State University 
+- [Jermaine Lennon](https://github.com/JermaineLennon) - Morgan State University 
 - [Samuel Adeleye](http://https://github.com/toade16 "Samuel Adeleye") - Morgan State University 
 - [Nasir Barnes](http://https://github.com/nasir-barnes1 "Nasir Barnes") - Morgan State University 
 
